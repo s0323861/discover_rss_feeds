@@ -104,7 +104,7 @@ EOM;
   <meta name="keywords" content="tool,find,rss,feed,url">
   <title>RSSフィード取得・検出ツール - お役立ちツール</title>
   <link rel="shortcut icon" href="./favicon.ico">
-  <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
   <link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css">
   <style type="text/css">
   body { padding-top: 80px; }
@@ -298,7 +298,7 @@ EOM;
 <!-- /footer -->
 
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<script type="text/javascript" src="js/bootstrap.min.js"></script>
+<script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 
 <script type="text/javascript">
   $('[data-toggle="tooltip"]').tooltip();
